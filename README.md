@@ -7,7 +7,6 @@ Construction of severe accident classification models in the United States
 
 1. Luis Felipe Cadavid Chica      -     98711955   -   Ingenieria de Sistemas,
 2. Cristian Alexander Castaño Montoya - 1001409163  -  Ingenieria de Sistemas,
-3. Wilson Alberto Villa Muñeton       -             -  Ingenieria de Sistemas,
 
 # Project Link:
 https://docs.google.com/document/d/1XECdn00GKXJXQ6qeAtecCcqZIQ8osxabqnPcUmBvYU0/edit
