@@ -16,6 +16,9 @@ https://www.kaggle.com/datasets/sobhanmoosavi/us-accidents?select=US_Accidents_D
 
 # Instructions for cloning the dataset
 
+# Video Delivery 2
+<https://youtu.be/XPOkMa7idOw>
+
 To work with the dataset for this project, you need to do the following:
 
 1. Make a copy of our colab: https://colab.research.google.com/drive/1Ja1c-4aSK42ocgbgPNyYo9TIc9gHmQrM#scrollTo=2R2-9OIVW_2j load the file "How Severity the Accidents is?.ipynb" into a new google colab
