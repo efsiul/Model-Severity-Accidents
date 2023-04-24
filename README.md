@@ -14,10 +14,10 @@ https://docs.google.com/document/d/1XECdn00GKXJXQ6qeAtecCcqZIQ8osxabqnPcUmBvYU0/
 # Dataset Link:
 https://www.kaggle.com/datasets/sobhanmoosavi/us-accidents?select=US_Accidents_Dec21_updated.csv
 
-# Instructions for cloning the dataset
-
 # Video Delivery 2
 <https://youtu.be/XPOkMa7idOw>
+
+# Instructions for cloning the dataset
 
 To work with the dataset for this project, you need to do the following:
 
